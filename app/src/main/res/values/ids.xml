@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="league_name" type="id"/>
+    <item name="league_badge" type="id"/>
+    <item name="league_desc" type="id"/>
+    <item name="league_parent" type="id"/>
+    <item name="league_badge_detail" type="id"/>
+    <item name="toolbar" type="id"/>
+    <item name="club_name" type="id"/>
+    <item name="club_badge" type="id"/>
+    <item name="team_name" type="id"/>
+    <item name="team_badge" type="id"/>
+    <item name="list_team" type="id"/>
+    <item name="spinner" type="id"/>
+    <item name="list_league" type="id"/>
+</resources>

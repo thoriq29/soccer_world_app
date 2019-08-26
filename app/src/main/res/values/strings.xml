@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Soccer World</string>
+    <array name="leagues">
+        <item>English Premier League</item>
+        <item>English League Championship</item>
+        <item>German Bundesliga</item>
+        <item>Italian Serie A</item>
+        <item>French Ligue 1</item>
+        <item>Spanish La Liga</item>
+    </array>
+
+    <string name="empty_league">You dont have a favorite match in this league</string>
+    <string name="match_stats_label">Match Stats</string>
+    <string name="shot_on_goal_label">Shots (on Goal)</string>
+    <string name="score_label">Scores</string>
+    <string name="yellowcard_label">Yellow Cards</string>
+    <string name="redcard_label">Red Cards</string>
+    <string name="no_result">No Result found</string>
+    <string name="empty_next_match">This league not have a next match</string>
+    <string name="empty_data">Data Not Found</string>
+    <string name="empty_last_match">This league not have a last match</string>
+</resources>
